@@ -2412,7 +2412,16 @@
     react-lifecycles-compat "^3.0.4"
     warning "^3.0.0"
 
-"@redq/reuse-modal@1.1.9", "@redq/reuse-modal@^1.1.9":
+"@redq/reuse-modal@1.2.4":
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/@redq/reuse-modal/-/reuse-modal-1.2.4.tgz#2bb284bf96cd97e123f04a43033ff826e6bbfc0c"
+  integrity sha512-dkIdg/crU3ieUrOKnwS52MUICnoOPdr9sV65ogjBse9OF3j1FsU8j1ZAWHu0GpDQnySI7MUp6jMqf5WxAhZxMA==
+  dependencies:
+    react-device-detect "^1.6.2"
+    react-rnd "^9.0.4"
+    react-spring "^8.0.18"
+
+"@redq/reuse-modal@^1.1.9":
   version "1.1.9"
   resolved "https://registry.yarnpkg.com/@redq/reuse-modal/-/reuse-modal-1.1.9.tgz#a5e3dab6780c4bb5805fbed862fe3aeb899eaee3"
   integrity sha512-FBoiO1f+wRn9BrfFfowlCnxz6STwnlZbHTClPoraJMldJgOyVjKDRGV5F58YqifAWPV2edkonCfc2nHSSjQ/AQ==
@@ -15841,6 +15850,13 @@ react-dev-utils@^7.0.0:
     strip-ansi "5.0.0"
     text-table "0.2.0"
 
+react-device-detect@^1.6.2:
+  version "1.9.9"
+  resolved "https://registry.yarnpkg.com/react-device-detect/-/react-device-detect-1.9.9.tgz#577b2eadfdfd60088a6b07e6bd0604df4b3fed97"
+  integrity sha512-UD5sU35+5PEgB5EboLpk4XzTyKV6X5zs4fdzyj/f9khDdUKW5T97eNSVBwZKDrNY9zlPH0bd3G2M0C+qM7/bYQ==
+  dependencies:
+    ua-parser-js "^0.7.20"
+
 react-docgen-typescript-loader@^3.0.0-rc.0:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/react-docgen-typescript-loader/-/react-docgen-typescript-loader-3.0.1.tgz#889aa472450c8db82ea0355656a307806ec74e77"
@@ -16104,6 +16120,14 @@ react-side-effect@^1.1.0:
   dependencies:
     exenv "^1.2.1"
     shallowequal "^1.0.1"
+
+react-spring@^8.0.18:
+  version "8.0.27"
+  resolved "https://registry.yarnpkg.com/react-spring/-/react-spring-8.0.27.tgz#97d4dee677f41e0b2adcb696f3839680a3aa356a"
+  integrity sha512-nDpWBe3ZVezukNRandTeLSPcwwTMjNVu1IDq9qA/AMiUqHuRN4BeSWvKr3eIxxg1vtiYiOLy4FqdfCP5IoP77g==
+  dependencies:
+    "@babel/runtime" "^7.3.1"
+    prop-types "^15.5.8"
 
 react-stickynode@2.1.1, react-stickynode@^2.1.0:
   version "2.1.1"
@@ -18872,6 +18896,11 @@ ua-parser-js@^0.7.18:
   version "0.7.19"
   resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.19.tgz#94151be4c0a7fb1d001af7022fdaca4642659e4b"
   integrity sha512-T3PVJ6uz8i0HzPxOF9SWzWAlfN/DavlpQqepn22xgve/5QecC+XMCAtmUNnY7C9StehaV6exjUCI801lOI7QlQ==
+
+ua-parser-js@^0.7.20:
+  version "0.7.20"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.20.tgz#7527178b82f6a62a0f243d1f94fd30e3e3c21098"
+  integrity sha512-8OaIKfzL5cpx8eCMAhhvTlft8GYF8b2eQr6JkCyVdrgjcytyOmPCXrqXFcUnhonRpLlh5yxEZVohm6mzaowUOw==
 
 uglify-js@3.4.x:
   version "3.4.10"
