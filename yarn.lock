@@ -13276,10 +13276,10 @@ next-compose-plugins@^2.1.1:
   resolved "https://registry.yarnpkg.com/next-compose-plugins/-/next-compose-plugins-2.1.1.tgz#7da0a3ce0c8ce267b5cb4164d2fb6e4aaf61bf86"
   integrity sha512-4yLtmGjnBlzuYdL66+c/zi8ljl24sK9jtP31UsTG1ZAAHj+ybWfEG/S+HMwK+pD2fNmJ4xQyr4xOubzExcS+Lg==
 
-next-fonts@^0.17.0:
-  version "0.17.0"
-  resolved "https://registry.yarnpkg.com/next-fonts/-/next-fonts-0.17.0.tgz#e5391503c5960894e9f1eb5d56c5366625edc509"
-  integrity sha512-7V0CZOmZXl4ObdchB+s8XQovqq6lCAd2W+nd1yWu8EhKSqrXG6TuQ954ecCenq3vZDOspBfivt9Sbi3Lf/8eVg==
+next-fonts@^0.18.0:
+  version "0.18.0"
+  resolved "https://registry.yarnpkg.com/next-fonts/-/next-fonts-0.18.0.tgz#6079f091d7036471bc8cc3d044a4bb09e5831826"
+  integrity sha512-ILY2hsiQXL3UaCd9gfLZB6i6MvHYfSRKa2Ad6V0iMuwuyarkuahDACFRRyzYc7GpdNgJSEuWnJ30W6dAdIGWhA==
   dependencies:
     file-loader "^2.0.0"
     url-loader "^1.1.1"
