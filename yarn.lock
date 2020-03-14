@@ -15659,7 +15659,17 @@ raw-loader@^1.0.0:
     loader-utils "^1.1.0"
     schema-utils "^1.0.0"
 
-rc-drawer@1.8.0, rc-drawer@^1.8.0:
+rc-drawer@1.10.1:
+  version "1.10.1"
+  resolved "https://registry.yarnpkg.com/rc-drawer/-/rc-drawer-1.10.1.tgz#9a74242cf37f5709f83483a987e15d68277afe44"
+  integrity sha512-2KufXkWK9N19eGYmUldIe6sYaC6IIVrts6v8WXnPuIoI9zVPGnwXnK/of+lQEBhidEPBBMBXnvTdGwvTpl60vQ==
+  dependencies:
+    babel-runtime "6.x"
+    classnames "^2.2.5"
+    prop-types "^15.5.0"
+    rc-util "^4.5.1"
+
+rc-drawer@^1.8.0:
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/rc-drawer/-/rc-drawer-1.8.0.tgz#ce76116c21d5179b4376b11cda99c05452bb2a27"
   integrity sha512-Uu1g2gmgGltjgtC+kxFEnt67lph2e3jNDHez4WAPRXgZEFALdg9WSdcLYWqw2VwTk+o+ueqDM8tA54K0r3exnA==
