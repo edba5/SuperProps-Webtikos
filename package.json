@@ -12,7 +12,7 @@
 	"devDependencies": {
 		"@babel/cli": "7.6.0",
 		"cpx": "1.5.0",
-		"cross-env": "5.2.0",
+		"cross-env": "5.2.1",
 		"firebase-tools": "6.7.1",
 		"husky": "2.1.0",
 		"lerna": "3.13.4",
