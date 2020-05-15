@@ -15678,7 +15678,15 @@ rc-hammerjs@~0.6.0:
     hammerjs "^2.0.8"
     prop-types "^15.5.9"
 
-rc-progress@2.3.0, rc-progress@^2.3.0:
+rc-progress@2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/rc-progress/-/rc-progress-2.6.1.tgz#2e0babcb3fa48234267b5e6a3f67f14e53032ba6"
+  integrity sha512-GR+rWDv5b61VkGs7SxDvsaJo6vzTZ4j1Z1sX0C3kG4kPli9nUCXurx5jREJ2SllUKLrhesr914DuvBBtXOSr6g==
+  dependencies:
+    babel-runtime "6.x"
+    prop-types "^15.5.8"
+
+rc-progress@^2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/rc-progress/-/rc-progress-2.3.0.tgz#cfbd07ff9026c450100980de209a92650e24f313"
   integrity sha512-hYBKFSsNgD7jsF8j+ZC1J8y5UIC2X/ktCYI/OQhQNSX6mGV1IXnUCjAd9gbLmzmpChPvKyymRNfckScUNiTpFQ==
