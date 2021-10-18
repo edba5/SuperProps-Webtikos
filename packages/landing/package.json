@@ -46,7 +46,7 @@
     "styled-system": "^4.1.0"
   },
   "devDependencies": {
-    "babel-plugin-styled-components": "1.10.0",
+    "babel-plugin-styled-components": "1.13.3",
     "docz": "0.13.7",
     "imagemin-mozjpeg": "8.0.0",
     "imagemin-optipng": "6.0.0",
