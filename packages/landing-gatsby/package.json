@@ -6,7 +6,7 @@
   "author": "RedQ Team",
   "dependencies": {
     "@glidejs/glide": "3.4.0",
-    "@redq/reuse-modal": "1.1.9",
+    "@redq/reuse-modal": "1.2.31",
     "gatsby": "2.3.32",
     "gatsby-image": "2.0.40",
     "gatsby-plugin-manifest": "2.0.29",
