@@ -2412,7 +2412,15 @@
     react-lifecycles-compat "^3.0.4"
     warning "^3.0.0"
 
-"@redq/reuse-modal@1.1.9", "@redq/reuse-modal@^1.1.9":
+"@redq/reuse-modal@1.2.31":
+  version "1.2.31"
+  resolved "https://registry.yarnpkg.com/@redq/reuse-modal/-/reuse-modal-1.2.31.tgz#a08406701f7982bdfad8da3c6e0ae1824c963408"
+  integrity sha512-CXBneiHD7R3el2OlQuNLJxWwS5fRgyerEFqgbdisXctEph9c3sjJIxLA4Rt+FhGvMlduqOzCkcUQpmsl3DxyBA==
+  dependencies:
+    react-rnd "^9.0.4"
+    react-spring "^8.0.18"
+
+"@redq/reuse-modal@^1.1.9":
   version "1.1.9"
   resolved "https://registry.yarnpkg.com/@redq/reuse-modal/-/reuse-modal-1.1.9.tgz#a5e3dab6780c4bb5805fbed862fe3aeb899eaee3"
   integrity sha512-FBoiO1f+wRn9BrfFfowlCnxz6STwnlZbHTClPoraJMldJgOyVjKDRGV5F58YqifAWPV2edkonCfc2nHSSjQ/AQ==
@@ -16104,6 +16112,14 @@ react-side-effect@^1.1.0:
   dependencies:
     exenv "^1.2.1"
     shallowequal "^1.0.1"
+
+react-spring@^8.0.18:
+  version "8.0.27"
+  resolved "https://registry.yarnpkg.com/react-spring/-/react-spring-8.0.27.tgz#97d4dee677f41e0b2adcb696f3839680a3aa356a"
+  integrity sha512-nDpWBe3ZVezukNRandTeLSPcwwTMjNVu1IDq9qA/AMiUqHuRN4BeSWvKr3eIxxg1vtiYiOLy4FqdfCP5IoP77g==
+  dependencies:
+    "@babel/runtime" "^7.3.1"
+    prop-types "^15.5.8"
 
 react-stickynode@2.1.1, react-stickynode@^2.1.0:
   version "2.1.1"
