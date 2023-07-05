@@ -7,7 +7,7 @@
   "dependencies": {
     "@glidejs/glide": "3.4.0",
     "@redq/reuse-modal": "1.1.9",
-    "gatsby": "2.3.32",
+    "gatsby": "4.25.7",
     "gatsby-image": "2.0.40",
     "gatsby-plugin-manifest": "2.0.29",
     "gatsby-plugin-offline": "2.0.25",
