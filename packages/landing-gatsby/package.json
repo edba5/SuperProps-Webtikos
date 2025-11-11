@@ -18,7 +18,7 @@
     "gatsby-source-filesystem": "2.0.32",
     "gatsby-transformer-sharp": "2.1.18",
     "prop-types": "15.7.2",
-    "rc-drawer": "1.8.0",
+    "rc-drawer": "1.10.1",
     "rc-progress": "2.3.0",
     "rc-tabs": "9.6.3",
     "react": "16.8.6",
