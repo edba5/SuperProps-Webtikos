@@ -19,7 +19,7 @@
     "gatsby-transformer-sharp": "2.1.18",
     "prop-types": "15.7.2",
     "rc-drawer": "1.8.0",
-    "rc-progress": "2.3.0",
+    "rc-progress": "2.6.1",
     "rc-tabs": "9.6.3",
     "react": "16.8.6",
     "react-accessible-accordion": "3.0.0",
